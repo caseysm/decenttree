@@ -26,6 +26,7 @@
 
 #include <iostream>    //for std::istream
 #include <sstream>     //for std::stringstream
+#include <cstdint>
 #include <vector>      //for std::vector
 #include <math.h>      //for floor()
 #if USE_GZSTREAM
