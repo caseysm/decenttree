@@ -34,6 +34,7 @@
 #include <math.h>       //for log10
 #include <iostream>     //for std::fstream
 #include <sstream>      //for std::stringstream
+#include <cstdint>
 #if USE_GZSTREAM
 #include <utils/gzstream.h>   //for ogzstream
 #else

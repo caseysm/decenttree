@@ -10,6 +10,8 @@
 #include <vector>
 #include <algorithm> //for std::transform
 #include <string>    //for std::string
+#include <cstdint>
+
 
 /**
         vector of double number

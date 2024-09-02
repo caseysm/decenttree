@@ -4,6 +4,7 @@
 #include <string>
 #include <vector>
 #include "flatmatrix.h" //for FlatMatrix class (used in SequenceLoader)
+#include <cstdint>
 
 bool isNucleotideOrMissing(const char c);
 bool isOpeningBracket     (const char c);
